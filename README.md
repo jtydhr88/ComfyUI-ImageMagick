@@ -1,6 +1,6 @@
 # ComfyUI ImageMagick
 
-**ComfyUI ImageMagick** is this extension implements custom nodes that integrated [ImageMagick](https://imagemagick.org/index.php) into ComfyUI.
+**ComfyUI ImageMagick** is an extension implements custom nodes that integrated [ImageMagick](https://imagemagick.org/index.php) into ComfyUI.
 
 [ImageMagick](https://imagemagick.org/index.php) is an extremely powerful image processing tool, and you can even think of it as a command-line version of "Photoshop". This Custom Nodes plugin allows you to integrate ImageMagick into your ComfyUI workflow.
 
